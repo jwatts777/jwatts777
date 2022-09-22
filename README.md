@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Welcome to my Github. 
+Please be aware that most of my projects are private/in-progress. For what is available, I hope you enjoy making use of it!
 <!--
 **jwatts777/jwatts777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
