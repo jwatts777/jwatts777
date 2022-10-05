@@ -15,8 +15,10 @@ Please be aware that most of my projects are private/in-progress. For the projec
 **_This means you may feel free to copy, redistrubute, and reformat for your own use._**  
 [<sub>**_Please read the MIT License before you get all lawyer-happy_**</sub>](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
  
- ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true)  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![stats](https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true&custom_title=Stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwatts777&show_icons=true&custom_title=Langs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
