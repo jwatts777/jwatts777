@@ -1,10 +1,10 @@
 Welcome to my Github. 
 
 
-***Standard Disclaimer***
-Please be aware that most of my projects are private/in-progress. For the projects I have available, I use the MIT license.  
+# ***Standard Disclaimer***
+ Please be aware that most of my projects are private/in-progress. For the projects I have available, I use the MIT license.  
 **_This means you may feel free to copy, redistrubute, and reformat for your own use._**  
-[<sub>**_Please read the MIT License before you get all lawyer-happy_**</sub>](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+[<sub>**_Please read the MIT License before you get all lawyered up_**</sub>](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
  
  
 ![stats](https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true&custom_title=Stats)  
