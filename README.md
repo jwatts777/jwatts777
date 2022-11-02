@@ -1,7 +1,7 @@
 Welcome to my Github. 
 
 
-# ***Standard Disclaimer***
+## ***Standard Disclaimer***
  Please be aware that most of my projects are private/in-progress. For the projects I have available, I use the MIT license.  
 **_This means you may feel free to copy, redistrubute, and reformat for your own use._**  
 [<sub>**_Please read the MIT License before you get all lawyered up_**</sub>](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
