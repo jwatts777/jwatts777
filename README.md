@@ -10,7 +10,7 @@ Welcome to my Github.
 ![stats](https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true&custom_title=Stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwatts777&show_icons=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 Here are some ideas to get you started:
