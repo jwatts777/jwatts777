@@ -29,12 +29,13 @@ Welcome to my Github.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Frameworks  
+  <a href='https://svelte.dev/'>
+<img src='https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white'>
+</a>
 <a href='https://reactjs.org'>
 <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
 </a>
-<a href='https://svelte.dev/'>
-<img src='https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white'>
-</a>
+
 
 ### Tooling
 <a href='https://code.visualstudio.com/'>
