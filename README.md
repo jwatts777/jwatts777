@@ -4,13 +4,29 @@ Welcome to my Github.
 <p align="center">
 <a href='https://www.linkedin.com/in/jordancwatts/'>
 <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
-</a> <---------All banners are clickable
+</a>                                                    <---------All banners are clickable
                    </p>
 
+<div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+  </div>
 
+<div align="center">
+<picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwatts777&show_icons=true&custom_title=Languages&theme=dark">
+</picture>
+  </div>
  
-![stats](https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true&custom_title=Stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwatts777&show_icons=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
  Front-End  
   </div>
