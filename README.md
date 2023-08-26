@@ -7,25 +7,7 @@ Welcome to my Github.
 </a>                                                    <---------All banners are clickable
                    </p>
 
-<div align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=jwatts777&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-  </div>
 
-<div align="center">
-<picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwatts777&show_icons=true&custom_title=Languages&theme=dark">
-</picture>
-  </div>
  
 <div align="center">
  Front-End  
