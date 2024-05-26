@@ -1,6 +1,6 @@
-<p align="center" style='{font-size: 40px}'>
-Welcome to my Github.
-</p>
+
+ <h1 align='center''>Welcome to my Github</h1>
+
 <p align="center">
 <a href='https://www.linkedin.com/in/jordancwatts/'>
 <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
@@ -9,9 +9,9 @@ Welcome to my Github.
 
 
  
-<div align="center">
+<h2 align="center">
  Front-End  
-  </div>
+  </h2>
   <div align="center">
 <a href='https://tailwindcss.com/'>
 <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'>
@@ -23,25 +23,25 @@ Welcome to my Github.
     </div>
 
   </div>
-<div align="center">
+<h2 align="center">
 Back-End
-   </div>
+   </h2>
    <div align="center">
 <a href='golang.dev'>
  <img src='https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white'>
   </div>
  </a>
-<div align="center">
+<h2 align="center">
  Hosting  
- </div>
+ </h2>
  <div align="center">
  <a href = "https://vercel.com/">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
   </a>
    </div>
-<div align="center">
+<h2 align="center">
  Frameworks 
-  </div>
+  </h2>
   <div align="center">
   <a href='https://svelte.dev/'>
 <img src='https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white'>
@@ -53,9 +53,9 @@ Back-End
 </a>
   <div>
 
-<div align="center">
+<h2 align="center">
  Tooling
-  <div>
+  <h2>
     <div align="center">
 <a href='https://code.visualstudio.com/'>
 <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ***Standard Disclaimer***
+#### ***Standard Disclaimer*** 
  Please be aware that most of my projects are private/in-progress. For the projects I have available, I commonly use the MIT license.  
-**_This means you may feel free to copy, redistrubute, and reformat for your own use._**  
+ **_This means you may feel free to copy, redistrubute, and reformat for your own use._**  
 [<sub>**_Please read the MIT License before you get all lawyered up_**</sub>](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
