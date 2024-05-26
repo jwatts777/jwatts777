@@ -1,5 +1,5 @@
 
- <h1 align='center' color='red'>Welcome to my Github</h1>
+
  
   ## This Github and Projects are under major changes in preparation for Summer '24 internships. ##
 
