@@ -1,5 +1,8 @@
 
- <h1 align='center''>Welcome to my Github</h1>
+ <h1 align='center' color='red'>Welcome to my Github</h1>
+ 
+  ## This Github and Projects are under major changes in preparation for Summer '24 internships. ##
+
 
 <p align="center">
 <a href='https://www.linkedin.com/in/jordancwatts/'>
