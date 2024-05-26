@@ -16,9 +16,12 @@ Welcome to my Github.
 <a href='https://tailwindcss.com/'>
 <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'>
 </a>
-<a href='https://getbootstrap.com/'>
+    <div align="center">
+      <a href='https://getbootstrap.com/'>
 <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'>
 </a>
+    </div>
+
   </div>
 <div align="center">
 Back-End
